@@ -24,7 +24,7 @@ public class AppConfig {
     //call AppConfig.memberRepository
 
 
-    
+
 
     @Bean
     public MemberService memberService() {
